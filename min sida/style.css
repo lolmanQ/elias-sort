@@ -1,0 +1,40 @@
+body{
+  background-color: lightgreen;
+}
+
+table{
+  width: 420px;
+  height: 420px;
+  border-collapse: collapse;
+  background-color: rgb(102, 31, 255);
+}
+
+th,td{
+  text-align: center;
+  border:1px solid black;
+  border-collapse: collapse;
+  width: 70px;
+  height: 70px;
+}
+
+tr:nth-child(odd){
+  background-color: rgb(209, 196, 233);
+}
+
+tr:nth-child(even){
+	color:white;
+}
+
+th{
+	background-color: rgb(255, 255, 255);
+	color: black;
+}
+
+ol.dDList li{
+	font-size: 22px;
+}
+
+ol.dDlist img{
+	height: 50px;
+	width: auto;
+}
