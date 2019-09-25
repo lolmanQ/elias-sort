@@ -33,3 +33,8 @@ th{
 ol.dDList li{
 	font-size: 22px;
 }
+
+ol.dDlist img{
+	height: 50px;
+	width: auto;
+}
